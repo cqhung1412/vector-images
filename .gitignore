@@ -1,0 +1,4 @@
+.env
+.dccache
+*-lock.*
+node_modules/
